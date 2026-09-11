@@ -71,16 +71,6 @@ I'm **Lokesh Choudhary**, a **Full Stack Developer & AI Engineer** building acro
 <img src="https://img.shields.io/badge/Conversation%20Memory-101b20?style=flat-square&logoColor=55ff99" alt="Conversation Memory" />
 </p>
 
-**MOBILE & TOOLING**
-
-<p>
-<img src="https://img.shields.io/badge/React%20Native-101b20?style=flat-square&logoColor=55ff99&logo=react" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-101b20?style=flat-square&logoColor=55ff99&logo=expo" alt="Expo" />
-<img src="https://img.shields.io/badge/Docker-101b20?style=flat-square&logoColor=55ff99&logo=docker" alt="Docker" />
-<img src="https://img.shields.io/badge/Turborepo-101b20?style=flat-square&logoColor=55ff99&logo=turborepo" alt="Turborepo" />
-<img src="https://img.shields.io/badge/Playwright-101b20?style=flat-square&logoColor=55ff99&logo=playwright" alt="Playwright" />
-<img src="https://img.shields.io/badge/Vitest-101b20?style=flat-square&logoColor=55ff99&logo=vitest" alt="Vitest" />
-</p>
 
 <a id="inside-the-ai-system"></a>
 

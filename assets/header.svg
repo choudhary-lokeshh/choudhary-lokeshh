@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Lokesh Choudhary. Code. Create. Evolve.">
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#15251e" stroke-width="1"/></pattern><radialGradient id="glow"><stop stop-color="#14472e"/><stop offset="1" stop-color="#080e0b"/></radialGradient></defs>
+<rect width="1200" height="420" rx="20" fill="#080e0b"/><rect width="1200" height="420" rx="20" fill="url(#glow)"/><rect width="1200" height="420" rx="20" fill="url(#grid)"/>
+<g fill="none" stroke="#55ff99" opacity=".35"><path d="M880 80h160v70h100M950 340v-90h190M840 100v220h50"/><circle cx="1040" cy="150" r="6"/><circle cx="950" cy="250" r="6"/><path d="m1030 180-40 35 40 35m65-70 40 35-40 35m-23-89-20 108" stroke-width="4"/></g>
+<rect x="52" y="45" width="7" height="16" fill="#55ff99"/><text x="73" y="59" fill="#a7b9ae" font-family="monospace" font-size="15" letter-spacing="3">LOKESH / DIGITAL WORKSPACE</text>
+<text x="50" y="160" fill="#effff4" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="800" letter-spacing="-3">LOKESH</text><text x="50" y="251" fill="#55ff99" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="800" letter-spacing="-3">CHOUDHARY<tspan font-size="62">_</tspan></text>
+<text x="55" y="300" fill="#bdcfc3" font-family="monospace" font-size="19" letter-spacing="4">CODE. CREATE. EVOLVE.</text>
+<path d="M55 339H1145" stroke="#294436"/><text x="55" y="376" fill="#74a889" font-family="monospace" font-size="14">JAVASCRIPT + TYPESCRIPT</text><text x="850" y="376" fill="#74a889" font-family="monospace" font-size="14">@choudhary-lokeshh</text></svg>
